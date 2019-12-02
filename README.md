@@ -12,6 +12,7 @@ Please refer to requirements.txt
 
 ## Project Structure 
 
+```
 .
 ├── config.py (Configurations about IRGAN and BPR.)
 ├── data (Data Files)
@@ -41,6 +42,7 @@ Please refer to requirements.txt
 │   ├── pretrained_model_dns.pkl
 │   └── pretrained_model_sns.pkl
 ├── readme.md
+```
 
 ## How to run
 1. Execute **conda create --name <env_name> --file requirements.txt** to create an virtual environment and install required packages.
